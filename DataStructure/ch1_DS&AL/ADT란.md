@@ -1,4 +1,4 @@
-# 추상자료형
+# 1.2 추상자료형
 [파이썬으로 쉽게 배우는 자료구조](https://www.booksr.co.kr/product/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)를 보고 정리한 내용입니다.
 
 ## 추상 자료형(ADT)이란
