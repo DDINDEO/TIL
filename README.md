@@ -13,4 +13,4 @@
   * 3.2 [파이썬 리스트](https://github.com/DDINDEO/TIL/blob/main/DataStructure/ch3/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
  
 * 4단원
-  * [스택이란?]()
+  * 4.1 [스택이란?](https://github.com/DDINDEO/TIL/blob/main/DataStructure/ch4/%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%9E%80.md)
